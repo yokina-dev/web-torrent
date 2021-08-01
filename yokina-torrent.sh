@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Bash3 Boilerplate. Copyright (c) 2014, kvz.io
+# YoKina Hamada
 
 set -o errexit
 set -o pipefail
@@ -85,8 +85,9 @@ Open browser to http://${HOSTIP}:3000/ now!
 * Default Username: ${USERNAME}
 * Default Password: ${PASSWORD}
 
-Read the wiki page about changing the default settings.
-    https://github.com/boypt/simple-torrent/wiki/AuthSecurity
+Contact with me for any kind of information
+-------telegram-------t.me/im_yokina-------
+
 
 #################################################################
 EOF
