@@ -76,7 +76,7 @@ systemctl enable --now cloud-torrent
 
 cat <<EOF
 #################################################################
-              SimpleTorrent installed successfuly.
+---------------------------Web Torrent---------------------------
 
 Open browser to http://${HOSTIP}:3000/ now!
 
