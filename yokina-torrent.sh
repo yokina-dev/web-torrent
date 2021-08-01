@@ -86,7 +86,8 @@ Open browser to http://${HOSTIP}:3000/ now!
 * Default Password: ${PASSWORD}
 
 Contact with me for any kind of information
--------telegram-------t.me/im_yokina-------
+-----------------telegram------------------
+----------https://t.me/im_yokina-----------
 
 
 #################################################################
